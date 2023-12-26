@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Adarsh Kumar Dubey.
+# 👋 Hello! I'm Adarsh Kumar Dubey.
 
 ## 🚀 About Me
 I'm a passionate front-end developer with a knack for problem-solving, a love for creating innovative projects, and a penchant for competitive programming. My journey in the world of coding is fueled by curiosity, creativity, and a relentless pursuit of excellence.
@@ -19,7 +19,7 @@ I believe in continuous learning. Currently, I'm diving deeper into Next.js and 
 
 ## 👨‍💻 Let's Connect!
 - **LinkedIn:** [Adarsh Kumar Dubey](https://www.linkedin.com/in/adarsh-kumar-dubey-12o05o04/)
-- **Portfolio:** [ADARSH]([Portfolio link](https://adarsh-myportfolio.vercel.app/))
+- **Portfolio:** [ADARSH](https://adarsh-myportfolio.vercel.app/)
 
 
 Feel free to explore my repositories and provide feedback. I'm always open to collaboration and new opportunities. Let's build something amazing together! 🚀
