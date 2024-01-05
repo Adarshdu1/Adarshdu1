@@ -19,7 +19,6 @@ I believe in continuous learning. Currently, I'm diving deeper into Next.js and 
 
 ## 👨‍💻 Let's Connect!
 - **LinkedIn:** [Adarsh Kumar Dubey](https://www.linkedin.com/in/adarsh-kumar-dubey-12o05o04/)
-- **Portfolio:** [ADARSH](https://adarsh-myportfolio.vercel.app/)
-
+- **Email:** dubeyad2003@gmail.com
 
 Feel free to explore my repositories and provide feedback. I'm always open to collaboration and new opportunities. Let's build something amazing together! 🚀
